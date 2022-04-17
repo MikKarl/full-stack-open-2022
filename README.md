@@ -1,4 +1,4 @@
-# Full Stack Open 2021 exercises
+# Full Stack Open 2022 exercises
 
 ## About the course
 
